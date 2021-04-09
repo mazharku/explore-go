@@ -4,4 +4,6 @@ import "fmt"
 
 func main() {
 	fmt.Printf("hello go")
+	fmt.Println("\n=======================================")
+	iterateStruct()
 }
